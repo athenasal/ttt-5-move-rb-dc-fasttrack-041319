@@ -11,6 +11,7 @@ end
 def input_to_index(userinput)
   if userinput = '5'
     '5'.to_i
+end
 
 # turns string into integer 
 
